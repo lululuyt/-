@@ -1,0 +1,5 @@
+[2023-11-22 21:07:03] [error] [E:\桌面\不同步文件\碳排放测算\碳排放测算_测试\main.py - 90 - <module>] 碳排放测算模块运行失败,错误原因为
+[2023-11-22 21:10:30] [error] [E:\桌面\不同步文件\碳排放测算\碳排放测算_测试\main.py - 75 - <module>] 电网购电数据读取失败,错误原因为index 2 is out of bounds for axis 0 with size 1
+[2023-11-22 21:11:37] [error] [E:\桌面\不同步文件\碳排放测算\碳排放测算_测试\main.py - 75 - <module>] 电网购电数据读取失败,错误原因为index 1 is out of bounds for axis 0 with size 1
+[2023-11-22 21:24:12] [error] [E:\桌面\不同步文件\碳排放测算\碳排放测算_测试\main.py - 54 - tanpai] 输出碳排放相关变量失败,错误原因为[Errno 13] Permission denied: 'output/output.xlsx'
+[2023-11-22 21:24:12] [error] [E:\桌面\不同步文件\碳排放测算\碳排放测算_测试\main.py - 91 - <module>] 碳排放测算模块运行失败,错误原因为
